@@ -1,0 +1,5 @@
+/.venv
+/app
+*.csv
+*.db
+*.ipynb
